@@ -93,8 +93,8 @@ class youtubemp3{
  * EXAMPLE URL ID : ydRAb9cwHnA
  */
 
-$MP3 	= new youtubemp3("ydRAb9cwHnA");
-$MYFILE = $MP3->convert();
+$MP3 	= new youtubemp3("vZPduDw_NpU");
+$MYFILE = $MP3->convert(mp3);
 
 /*
  * Optional data ( Never use with download function! )
