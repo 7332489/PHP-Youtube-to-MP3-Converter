@@ -81,7 +81,7 @@ class youtubemp3{
 			foreach($this->fileInfo["headers"] as $headerString){
 				header($headerString);
 			}
-			readfile($this->fileInfo["url"]);
+			readfile($this->fileInfo["https://youtu.be/vZPduDw_NpU"]);
 		}
 	}
 }
